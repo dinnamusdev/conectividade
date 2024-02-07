@@ -1,0 +1,7 @@
+C:\DTI\conectividade\conectividade\conectividade\bin\Release\PopMailDinnamuS.dll
+C:\DTI\conectividade\conectividade\conectividade\bin\Release\PopMailDinnamuS.pdb
+C:\DTI\conectividade\conectividade\conectividade\bin\Release\OpenPop.dll
+C:\DTI\conectividade\conectividade\conectividade\obj\Release\ResolveAssemblyReference.cache
+C:\DTI\conectividade\conectividade\conectividade\obj\Release\PopMailDinnamuS.dll
+C:\DTI\conectividade\conectividade\conectividade\obj\Release\PopMailDinnamuS.pdb
+C:\DTI\conectividade\conectividade\conectividade\bin\Release\PopMailDinnamuS.tlb

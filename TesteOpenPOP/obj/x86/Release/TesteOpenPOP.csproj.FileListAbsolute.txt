@@ -1,0 +1,8 @@
+C:\DTI\conectividade\conectividade\TesteOpenPOP\bin\Release\TesteOpenPOP.exe
+C:\DTI\conectividade\conectividade\TesteOpenPOP\bin\Release\TesteOpenPOP.pdb
+C:\DTI\conectividade\conectividade\TesteOpenPOP\bin\Release\OpenPop.dll
+C:\DTI\conectividade\conectividade\TesteOpenPOP\obj\x86\Release\ResolveAssemblyReference.cache
+C:\DTI\conectividade\conectividade\TesteOpenPOP\obj\x86\Release\TesteOpenPOP.exe
+C:\DTI\conectividade\conectividade\TesteOpenPOP\obj\x86\Release\TesteOpenPOP.pdb
+C:\DTI\conectividade\conectividade\TesteOpenPOP\bin\Release\PopMailDinnamuS.dll
+C:\DTI\conectividade\conectividade\TesteOpenPOP\bin\Release\PopMailDinnamuS.pdb

@@ -1,0 +1,6 @@
+C:\DTI\conectividade\conectividade\conectividade\bin\Debug\conectividade.dll
+C:\DTI\conectividade\conectividade\conectividade\bin\Debug\conectividade.pdb
+C:\DTI\conectividade\conectividade\conectividade\bin\Debug\OpenPop.dll
+C:\DTI\conectividade\conectividade\conectividade\obj\Debug\ResolveAssemblyReference.cache
+C:\DTI\conectividade\conectividade\conectividade\obj\Debug\conectividade.dll
+C:\DTI\conectividade\conectividade\conectividade\obj\Debug\conectividade.pdb

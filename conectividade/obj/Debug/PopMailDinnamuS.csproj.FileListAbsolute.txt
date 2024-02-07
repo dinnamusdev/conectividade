@@ -1,0 +1,7 @@
+C:\DTI\conectividade\conectividade\conectividade\bin\Debug\PopMailDinnamuS.dll
+C:\DTI\conectividade\conectividade\conectividade\bin\Debug\PopMailDinnamuS.pdb
+C:\DTI\conectividade\conectividade\conectividade\bin\Debug\PopMailDinnamuS.tlb
+C:\DTI\conectividade\conectividade\conectividade\bin\Debug\OpenPop.dll
+C:\DTI\conectividade\conectividade\conectividade\obj\Debug\ResolveAssemblyReference.cache
+C:\DTI\conectividade\conectividade\conectividade\obj\Debug\PopMailDinnamuS.dll
+C:\DTI\conectividade\conectividade\conectividade\obj\Debug\PopMailDinnamuS.pdb
